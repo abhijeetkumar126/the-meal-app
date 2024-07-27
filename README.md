@@ -1,5 +1,7 @@
 # The Meal DB App
 
+[Linkedin of Abhijeet Raj](https://www.linkedin.com/in/abhijeetkumar126/)
+
 - Splash Screen
 - Listing Ingrident
 - Listing Meals by Ingrident
